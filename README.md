@@ -1,12 +1,15 @@
+# Create an updated Markdown (.md) file with the correct GitHub username: rsmva-oo1
+
+updated_readme_content = """
 <h1 align="center">Salom, men Munisa 👋</h1>
 
 ## 🧕 Men haqimda:
 
 - 👧 Men 16 yoshdaman, O‘zbekistonlik yosh dasturchiman  
-- 💻 Men hozirda frontend dasturlash sohasida tahsil olyapman  
-- 🌐 Menga veb-saytlar yaratish, dizayn  va interaktivlik yoqadi  
+- 💻 Men frontend dasturchiman  
+- 🌐 Menga veb-saytlar yaratish, dizayn va interaktivlik yoqadi  
 - 🏫 Hozirda 10-sinfda o‘qiyman  
-- 🤝 Kelajakda katta IT loyihalarda ishtirok etishni istayman  
+- 🤝 Kelajakda IT loyihalarda ishtirok etishni istayman  
 - 📬 Menga bog‘lanish: **[@Rsmva_o1](https://t.me/Rsmva_o1)**
 
 ---
@@ -31,10 +34,16 @@
 
 ## 📈 GitHub statistikasi:
 
-![Munisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsmva-oo1show_icons=true&theme=radical)
-
+![Munisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsmva-oo1&show_icons=true&theme=radical)
 
 ---
 
 > 🎯 Maqsadim – bilimimni amaliyotda qo‘llab, foydali loyihalar yaratish!
-# Rsmva_o1
+"""
+
+# Save updated content to file
+updated_file_path = "/mnt/data/README_Munisa_updated.md"
+with open(updated_file_path, "w", encoding="utf-8") as file:
+    file.write(updated_readme_content)
+
+updated_file_path
