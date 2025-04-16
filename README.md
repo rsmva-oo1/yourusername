@@ -6,10 +6,10 @@ updated_readme_content = """
 ## 🧕 Men haqimda:
 
 - 👧 Men 16 yoshdaman, O‘zbekistonlik yosh dasturchiman  
-- 💻 Men frontend dasturchiman  
+- 💻 Men hozirda frontend  dasturlash sohasida talim olyapman  
 - 🌐 Menga veb-saytlar yaratish, dizayn va interaktivlik yoqadi  
 - 🏫 Hozirda 10-sinfda o‘qiyman  
-- 🤝 Kelajakda IT loyihalarda ishtirok etishni istayman  
+- 🤝 Kelajakda katta IT loyihalarda ishtirok etishni istayman  
 - 📬 Menga bog‘lanish: **[@Rsmva_o1](https://t.me/Rsmva_o1)**
 
 ---
