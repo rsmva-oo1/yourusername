@@ -1,4 +1,4 @@
-# Create an updated Markdown (.md) file with the correct GitHub username: rsmva-oo1
+ rsmva-oo1
 
 updated_readme_content = """
 <h1 align="center">Salom, men Munisa 👋</h1>
