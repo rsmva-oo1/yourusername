@@ -5,19 +5,19 @@ updated_readme_content = """
 
 ## 🧕 Men haqimda:
 
-- 👧 Men 16 yoshdaman, O‘zbekistonlik yosh dasturchiman  
+- 👧 Men 17 yoshdaman, O‘zbekistonlik yosh dasturchiman  
 - 💻 Men hozirda frontend  dasturlash sohasida talim olyapman  
-- 🌐 Menga veb-saytlar yaratish, dizayn va interaktivlik yoqadi  
-- 🏫 Hozirda 10-sinfda o‘qiyman  
+- 🌐 Menga veb-saytlar yaratish, dizayn va interaktivlik yoqadi,{I am a young IT enthusiast working on AI-driven startup projects with a strong focus on innovation and real-world impact. I ranked in the TOP 3 among 106 projects at the Texnovation Girls competition and am a resident of Start-up Garage. I actively participate in various tech and volunteer initiatives. My goal is to create meaningful technological solutions and bring my projects to the international level.}  
+- 🏫 Hozirda 11-sinfda o‘qiyman  
 - 🤝 Kelajakda katta IT loyihalarda ishtirok etishni istayman  
-- 📬 Menga bog‘lanish: **[@Rsmva_o1](https://t.me/Rsmva_o1)**
+- 📬 Menga bog‘lanish: **[@rsmva_o1](https://t.me/rsmva_o1)**
 
 ---
 
 ## 🌐 Ijtimoiy:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rsmva_o1)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rsmva_o1)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](rsmva_o1)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ---
