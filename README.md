@@ -42,5 +42,3 @@
 Men o‘rganaman, quraman va innovatsion g‘oyalarni hayotga tatbiq qilaman.
 
 ---
-
-⭐ **Agar profiling uchun banner ham kerak bo‘lsa — menga ayt, senga zamonaviy banner ham yasab beraman!**
