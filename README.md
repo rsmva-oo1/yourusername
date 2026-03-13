@@ -1,5 +1,5 @@
 <h1 align="center">👋 Salom, men Munisa Rustamova</h1>
-<h3 align="center">Frontend developer • AI enthusiast • Startup innovatori</h3>
+<h3 align="center">Frontend developer • AI enthusiast • Startup innovatori • Journalist </h3>
 
 ---
 
