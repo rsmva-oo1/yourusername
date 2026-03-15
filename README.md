@@ -5,7 +5,7 @@ Frontend Engineer
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&width=600&lines=Frontend+Engineer;React+Developer;Vue+Developer;Next.js+Developer;Nuxt.js+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&width=600&lines=Frontend+Engineer;React+Developer;Vue+Developer;Next.js+Developer;Developer" />
 </p>
 
 <p align="center">
