@@ -1,44 +1,76 @@
-<h1 align="center">👋 Salom, men Munisa Rustamova</h1>
-<h3 align="center">Frontend developer • AI enthusiast • Startup innovatori • Journalist </h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umidbek%20Ruzmetov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
----
-
-### 👩‍💻 Men haqimda
-- 🇺🇿 17 yoshdaman, O‘zbekistonlik yosh dasturchiman  
-- 💻 Frontend dasturlashni chuqur o‘rganayotgan Junior Developer  
-- 🤖 AI bilan ishlaydigan startap loyihalar yarataman  
-- 🏆 **Texnovation Girls** tanlovida 106 ta loyiha orasidan **TOP-3**  
-- 🚀 **Startup Garage** rezidenti  
-- 🌍 Yoshlar uchun ITni ommalashtirishga qaratilgan **BSSIT** jamoasi bilan ishlayman  
-- 🎓 Hozirda 11-sinfda o‘qiyman  
-- 🎯 Maqsadim — o‘z loyihalarimni xalqaro darajaga olib chiqish  
-
----
-
-### 📬 Bog‘lanish
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rsmva_o1)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](rsmva_o1)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,figma,ai,,github,vscode" />
-</p>
-
----
-
-
-
-### 📊 GitHub Statistikasi
+<h2 align="center">
+Frontend Engineer
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsmva-001&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsmva-001&theme=tokyonight" height="160"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&width=600&lines=Frontend+Engineer;React+Developer;Vue+Developer;Next.js+Developer;Nuxt.js+Developer" />
+</p>
+
+<p align="center">
+📍 Uzbekistan, Khorezm
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Umid2720&label=Visitors&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### ✨ Shaxsiy missiyam
-**“Texnologiya orqali foyda keltiradigan, odamlar hayotini yengillashtiradigan real yechimlar yaratish.”**  
-Men o‘rganaman, quraman va innovatsion g‘oyalarni hayotga tatbiq qilaman.
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,git,github,vue,react,nextjs,nginx" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LESS-black?style=for-the-badge&logo=less"/>
+
+<img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache"/>
+
+</p>
 
 ---
+
+# 👨‍💻 About Me
+
+- 💻 Frontend Engineer
+- ⚡ Specialized in React & Vue Ecosystem
+- 🌱 Always learning new technologies
+- 🔥 Working with modern frontend tools
+- 🧠 Strong knowledge of UI/UX
+
+📫 Contact:
+
+Telegram: **@r_munisaa**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180"
+src="https://streak-stats.demolab.com?user=Umid2720&theme=tokyonight&hide_border=true&v=1"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umid2720&theme=tokyo-night&hide_border=true&v=1"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake 
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Umid2720/Umid2720/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
