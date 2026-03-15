@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Umidbek%20Ruzmetov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Munisa%20Rustamova&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h2 align="center">
 Frontend Engineer
